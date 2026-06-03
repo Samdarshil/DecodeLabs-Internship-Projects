@@ -1,7 +1,4 @@
 
-# DecodeLabs-Internship-Projects
-Curated portfolio of projects developed during the DecodeLabs internship, showcasing development workflow, coding practices, problem-solving, and applied technical skills across multiple projects.
-=======
 # 🤖 DecodeBot — Futuristic Terminal AI Assistant
 
 > *"A cinematic, rule-based AI chatbot that feels alive — built on beginner Python, engineered like a pro."*
