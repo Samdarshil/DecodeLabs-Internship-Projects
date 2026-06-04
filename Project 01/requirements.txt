@@ -1,0 +1,8 @@
+# DecodeBot — Python Dependencies
+# Install with:  pip install -r requirements.txt
+#
+# colorama is the ONLY external dependency.
+# All other libraries used (random, time, datetime, os, sys, signal, unicodedata)
+# are part of Python's standard library and require no installation.
+
+colorama>=0.4.6
