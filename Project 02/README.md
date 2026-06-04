@@ -1,7 +1,4 @@
 # 🧬 OncAI — Breast Cancer Classification Suite
-
-[![CI](https://github.com/yourusername/oncai/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/oncai/actions/workflows/ci.yml)
-[![Security](https://github.com/yourusername/oncai/actions/workflows/security.yml/badge.svg)](https://github.com/yourusername/oncai/actions/workflows/security.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109%2B-009688?logo=fastapi)](https://fastapi.tiangolo.com)
 [![React 18](https://img.shields.io/badge/React-18-61dafb?logo=react)](https://react.dev)
