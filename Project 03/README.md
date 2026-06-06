@@ -149,7 +149,8 @@ Input: "JavaScript, React, CSS, HTML"
 
 ---
 
-## Contact
+## 👨‍💻 Author
 
-- **GitHub** — [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn** — [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Darshil**  
+BCA Student — Artificial Intelligence Internship Project  
+*"Building tomorrow's tools with today's fundamentals."*
