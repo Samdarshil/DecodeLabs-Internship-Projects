@@ -227,6 +227,3 @@ This project is open-source under the **MIT License**.
 Feel free to use, modify, and build upon it — just give credit!
 
 ---
-
-*DecodeBot — Because your internship project shouldn't look like everyone else's.*
->>>>>>> 5b15163 (Initial commit)
