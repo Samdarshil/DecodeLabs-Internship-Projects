@@ -1,6 +1,0 @@
-![OUTPUT 01](screenshots/01.png)
-![OUTPUT 01](screenshots/02.png)
-![OUTPUT 01](screenshots/03 - I.png)
-![OUTPUT 01](screenshots/03 - II.png)
-![OUTPUT 01](screenshots/04 - I.png)
-![OUTPUT 01](screenshots/04 - II.png)
