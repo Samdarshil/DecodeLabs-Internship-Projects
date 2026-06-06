@@ -1,0 +1,82 @@
+{
+  "version": "1.0",
+  "model_type": "VotingClassifier",
+  "sub_models": [
+    "LogisticRegression",
+    "RandomForest",
+    "GradientBoosting"
+  ],
+  "accuracy": 0.9737,
+  "f1_weighted": 0.9736,
+  "f1_macro": 0.9716,
+  "roc_auc": 0.9957,
+  "cv_accuracy_mean": 0.9719,
+  "cv_accuracy_std": 0.0129,
+  "train_samples": 455,
+  "test_samples": 114,
+  "fit_time_seconds": 4.88,
+  "total_time_seconds": 17.04,
+  "feature_names": [
+    "mean radius",
+    "mean texture",
+    "mean perimeter",
+    "mean area",
+    "mean smoothness",
+    "mean compactness",
+    "mean concavity",
+    "mean concave points",
+    "mean symmetry",
+    "mean fractal dimension",
+    "radius error",
+    "texture error",
+    "perimeter error",
+    "area error",
+    "smoothness error",
+    "compactness error",
+    "concavity error",
+    "concave points error",
+    "symmetry error",
+    "fractal dimension error",
+    "worst radius",
+    "worst texture",
+    "worst perimeter",
+    "worst area",
+    "worst smoothness",
+    "worst compactness",
+    "worst concavity",
+    "worst concave points",
+    "worst symmetry",
+    "worst fractal dimension"
+  ],
+  "target_names": [
+    "malignant",
+    "benign"
+  ],
+  "classification_report": {
+    "malignant": {
+      "precision": 0.975609756097561,
+      "recall": 0.9523809523809523,
+      "f1-score": 0.963855421686747,
+      "support": 42.0
+    },
+    "benign": {
+      "precision": 0.9726027397260274,
+      "recall": 0.9861111111111112,
+      "f1-score": 0.9793103448275862,
+      "support": 72.0
+    },
+    "accuracy": 0.9736842105263158,
+    "macro avg": {
+      "precision": 0.9741062479117941,
+      "recall": 0.9692460317460317,
+      "f1-score": 0.9715828832571666,
+      "support": 114.0
+    },
+    "weighted avg": {
+      "precision": 0.9737105878629081,
+      "recall": 0.9736842105263158,
+      "f1-score": 0.9736164257756981,
+      "support": 114.0
+    }
+  }
+}
