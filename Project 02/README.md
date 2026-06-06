@@ -384,6 +384,12 @@ ports:
 
 ---
 
+## 👨‍💻 Author
+
+**Darshil**  
+BCA Student — Artificial Intelligence Internship Project  
+*"Building tomorrow's tools with today's fundamentals."*
+
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE). Free to use, modify, and distribute with attribution.
