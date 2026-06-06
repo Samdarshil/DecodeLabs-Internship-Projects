@@ -42,7 +42,7 @@ jobs:
             --cov-fail-under=75
 
       - name: Upload coverage
-        uses: codecov/codecov-action@v3
+        uses: codecov/codecov-action@v6
         with:
           files: ./backend/coverage.xml
           flags: backend
