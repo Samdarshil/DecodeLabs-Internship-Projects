@@ -1,0 +1,14 @@
+role,skills
+Cloud Architect,cloud computing aws azure gcp terraform infrastructure devops networking security iac serverless
+Frontend Developer,html css javascript typescript react vue angular responsive design ui ux accessibility webpack
+Backend Developer,python java node javascript rest api sql databases microservices docker authentication caching
+Data Engineer,python sql spark hadoop kafka airflow etl data pipeline aws gcp data warehouse bigquery
+Data Scientist,python machine learning statistics numpy pandas matplotlib scikit-learn deep learning sql feature engineering
+DevOps Engineer,docker kubernetes ci cd jenkins linux bash automation cloud monitoring terraform ansible
+Machine Learning Engineer,python tensorflow pytorch deep learning neural networks mlops model deployment feature engineering
+Cybersecurity Analyst,networking firewalls penetration testing vulnerability assessment python linux encryption siem
+Full Stack Developer,javascript typescript react node python rest api sql docker git html css databases
+Mobile Developer,swift kotlin react native flutter mobile ios android api design ui ux firebase
+Blockchain Developer,solidity ethereum web3 smart contracts cryptography javascript python distributed systems
+AI Research Scientist,python deep learning mathematics statistics research machine learning pytorch tensorflow nlp computer vision
+Cloud DevOps Engineer,aws azure gcp docker kubernetes terraform ci cd monitoring linux automation security

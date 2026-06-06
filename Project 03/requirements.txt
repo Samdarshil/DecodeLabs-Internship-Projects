@@ -1,0 +1,13 @@
+# ── Core (no external ML libraries — TF-IDF + cosine built from scratch) ─────
+# Python 3.9+ standard library is sufficient for the recommender itself.
+
+# ── Web UI (optional) ─────────────────────────────────────────────────────────
+flask>=3.0.0,<4.0
+
+# ── Testing (optional — tests also run without pytest via run.py --test) ─────
+pytest>=7.4.0,<9.0
+pytest-cov>=4.1.0,<6.0
+
+# ── Dev tools (optional) ─────────────────────────────────────────────────────
+# black>=24.0
+# flake8>=7.0
