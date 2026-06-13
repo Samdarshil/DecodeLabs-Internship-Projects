@@ -53,7 +53,6 @@ Across all four projects:
 
 ## 👨‍💻 Author
 
-**Darshil**  
-BCA Student — Artificial Intelligence Internship Project  
+**Darshil Samson**  
 *"Building tomorrow's tools with today's fundamentals."*
 
