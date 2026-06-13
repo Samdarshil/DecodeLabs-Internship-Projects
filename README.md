@@ -54,5 +54,5 @@ Across all four projects:
 ## 👨‍💻 Author
 
 **Darshil Samson**  
-*"Building tomorrow's tools with today's fundamentals."*
+*"Transforming Ideas into Meaningful Digital Experiences."*
 
