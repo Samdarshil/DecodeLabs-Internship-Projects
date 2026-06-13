@@ -51,8 +51,9 @@ Across all four projects:
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-**Darshil**
-BCA Student — AI/ML Internship Portfolio
+**Darshil**  
+BCA Student — Artificial Intelligence Internship Project  
+*"Building tomorrow's tools with today's fundamentals."*
 
