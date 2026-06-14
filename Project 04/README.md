@@ -203,8 +203,6 @@ Through this project, I gained practical experience in:
 
 ### Darshil
 
-DecodeLabs Internship Program – Project 4
-
 ---
 
 > **"AI does not read text the way humans do—it estimates probabilities. The art of OCR lies in transforming noisy pixels into information reliable enough to trust."** 📄✨
