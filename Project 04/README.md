@@ -1,4 +1,4 @@
-# 🔍 DecodeLabs Project 4 – OCR Text Recognition System
+# 🔍 OCR Text Recognition System
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green)
