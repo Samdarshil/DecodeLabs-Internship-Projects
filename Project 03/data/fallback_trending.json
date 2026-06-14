@@ -1,0 +1,47 @@
+{
+  "trending": [
+    {
+      "role": "Full Stack Developer",
+      "reason": "Most in-demand role — 2024 job market",
+      "popularity_score": 0.94
+    },
+    {
+      "role": "Data Scientist",
+      "reason": "High salary + fastest growing AI/ML field",
+      "popularity_score": 0.91
+    },
+    {
+      "role": "DevOps Engineer",
+      "reason": "Critical for every tech company's pipeline",
+      "popularity_score": 0.88
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "reason": "Explosive growth with GenAI boom",
+      "popularity_score": 0.86
+    },
+    {
+      "role": "Cloud Architect",
+      "reason": "Enterprise cloud migration driving huge demand",
+      "popularity_score": 0.83
+    }
+  ],
+  "onboarding_topics": [
+    "web development",
+    "data and analytics",
+    "cloud and infrastructure",
+    "artificial intelligence",
+    "cybersecurity",
+    "mobile development",
+    "blockchain"
+  ],
+  "topic_to_roles": {
+    "web development":         ["Full Stack Developer", "Frontend Developer", "Backend Developer"],
+    "data and analytics":      ["Data Scientist", "Data Engineer", "AI Research Scientist"],
+    "cloud and infrastructure": ["Cloud Architect", "DevOps Engineer", "Cloud DevOps Engineer"],
+    "artificial intelligence": ["Machine Learning Engineer", "AI Research Scientist", "Data Scientist"],
+    "cybersecurity":           ["Cybersecurity Analyst", "Cloud Architect", "DevOps Engineer"],
+    "mobile development":      ["Mobile Developer", "Full Stack Developer", "Frontend Developer"],
+    "blockchain":              ["Blockchain Developer", "Backend Developer", "Full Stack Developer"]
+  }
+}

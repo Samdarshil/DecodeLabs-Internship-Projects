@@ -1,0 +1,49 @@
+TECH STACK RECOMMENDER — RUN INSTRUCTIONS
+==========================================
+
+REQUIREMENTS
+  Python 3.9 or higher
+  No mandatory ML libraries — core runs on stdlib only
+  Flask needed only for the web UI (optional)
+
+SETUP (one time)
+  cd tech-stack-recommender
+  pip install flask          # only needed for web UI
+
+RUN OPTIONS
+
+  Option A — Interactive terminal (asks for your skills)
+    python run.py
+
+  Option B — Direct skill input
+    python run.py --skills "Python, Machine Learning, Docker"
+
+  Option C — More results + see TF-IDF vs Jaccard comparison
+    python run.py --skills "Python, SQL, Spark" --top 5 --compare
+
+  Option D — Export the role similarity matrix to CSV
+    python run.py --skills "AWS, Terraform" --export-matrix
+
+  Option E — Flask web UI (visual 4-step pipeline)
+    python run.py --web
+    Then open http://localhost:5000 in your browser
+
+  Option F — Run all 72 unit tests
+    python run.py --test
+
+COLD START BEHAVIOUR
+  If you enter fewer than 3 skills, or all your skills are unrecognised,
+  the system falls back to trending career paths automatically.
+  To get the onboarding survey instead:
+    python run.py --interactive
+
+OUTPUT FILES
+  output/sample_results.txt    — last run's top recommendations
+  output/similarity_matrix.csv — pairwise cosine scores between all roles
+  (Both are auto-created on first run)
+
+ADDING NEW JOB ROLES
+  Edit data/raw_skills.csv and add a new row:
+    My New Role,skill1 skill2 skill3 skill4 skill5
+  No retraining needed — the TF-IDF index rebuilds at startup.
+  This is item cold start handled automatically.
